@@ -1,0 +1,65 @@
+/* Below line is used for online Google font */
+body{
+
+    background-image: url("./img/png-transparent-medieval-european-border-background-gradient-color-european-style-complicated.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+h2{
+background-color: rgb(251, 203, 115);
+margin-top: 0.5em;
+text-align:center;
+}
+
+div.container{
+
+margin-left: 20em;
+margin-top: -26em;
+font-family: 'Raleway', sans-serif;
+}
+div.main{
+width: 20em;
+margin-bottom: 10.7em;
+padding-top: 2em;
+padding-left: 2em;
+padding-right: 2em;
+padding-bottom: 2em;
+border: 0.5em solid black;
+border-radius: 2em;
+font-family: raleway;
+float:left;
+margin-top:50px;
+}
+input[type=text],input[type=password]{
+width: 100%;
+height: 40px;
+padding: 5px;
+margin-bottom: 25px;
+margin-top: 5px;
+border: 2px solid #ccc;
+color: #4f4f4f;
+font-size: 16px;
+border-radius: 5px;
+}
+
+input[type=button]{
+font-size: 16px;
+background: linear-gradient(#ffbc00 5%, #ffdd7f 100%);
+border: 1px solid #e5a900;
+color: #4E4D4B;
+font-weight: bold;
+cursor: pointer;
+width: 100%;
+border-radius: 5px;
+padding: 10px 0;
+outline:none;
+}
+input[type=button]:hover{
+background: linear-gradient(#ffdd7f 5%, #ffbc00 100%);
+}
+img{
+    width: 20em;
+    margin-left: 50em;
+    margin-top: 8em;
+}
