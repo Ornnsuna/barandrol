@@ -4,7 +4,7 @@
   }
   
   body {
-      background-image: url("img/background-img");
+      background-image: url("./img/png-transparent-medieval-european-border-background-gradient-color-european-style-complicated.png");
       background-position: center;
       background-repeat: no-repeat;
       background-size: 100% 100%;
@@ -36,7 +36,7 @@
   }
   .header {
     overflow: hidden;
-    background-color: rgb(206, 181, 136);
+    background-color: rgba(206, 182, 136, 0.539);
     height: fit-content;
   }
   
@@ -49,14 +49,16 @@
     font-size: 18px; 
     line-height: 1em;
     border-radius: 4em;
+    border: 0.1em solid rgba(99, 57, 25, 0);
   }
   .iniciar {
     background-color: azure;
-    margin-left: 40%;
+    margin-left: 38%;
   }
   
   a:hover {
-    border: 0.1em solid #ff0000;
+    border: 0.1em solid rgb(99, 57, 25);
+    background-color: rgba(96, 73, 45, 0.514);
     color: black;
   }
 
@@ -77,53 +79,57 @@
     margin-top: 0%
   }
   .nosaltres {
-    padding-left: 12%;
-    padding-top: 1%;
-    margin-top: 1%;
-    margin-right: 3%;
-    margin-left: 3%;
+    text-align: center;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 2em;
+    margin-top: 1em;
+    margin-right: auto;
+    margin-left: auto;
     text-decoration: none;
-    background-color: orange;
+    background-color: rgba(99, 57, 25, 0.587);
     height: 5em;
     width: 30%;
   }
   .alfred {
-    margin-top: 3%;
-    margin-right: 3%;
-    margin-left: 3%;
+    margin-top: 1em;
+    margin-right: 2em;
+    margin-left: 13em;
     text-decoration: none;
     background-color: darkgray;
     height: 11em;
-    width: 40%;
+    width: 30%;
   }
 
   .imgalfred {
-    margin-left: 30em;
-    margin-bottom: 10em;
+    margin-left: 20em;
+    margin-bottom: 40em;
    
   }
   .jordi {
-    margin-top: 3%;
-    margin-right: 3%;
-    margin-left: 3%;
+    margin-top: 1em;
+    margin-right: 2em;
+    margin-left: 13em;
     text-decoration: none;
     background-color: darkgray;
     height: 11em;
-    width: 40%;
+    width: 30%;
+    margin-bottom: em;
   }
 
   .imgjordi {
-    margin-left: 30em;
+    margin-left: 20em;
+    margin-bottom: 40em;
    
   }
   .iker {
-    margin-top: -32%;
-    margin-right: 3%;
-    margin-left: 50%;
+    margin-top: -23em;
+    margin-right: 2em;
+    margin-left: 50em;
     text-decoration: none;
     background-color: darkgray;
     height: 11em;
-    width: 40%;
+    width: 30%;
   }
 
   .imgiker {
@@ -132,14 +138,14 @@
   }
 
   .oriol {
-    margin-top: 3%;
-    margin-right: 3%;
-    margin-left: 50%;
+    margin-top: 1em;
+    margin-right: 2em;
+    margin-left: 50em;
     text-decoration: none;
     background-color: darkgray;
     height: 11em;
-    width: 40%;
-    margin-bottom: 8.2em;
+    width: 30%;
+    margin-bottom: 5em;
   }
 
   .imgoriol {
@@ -274,12 +280,16 @@
 
 }
 .conta{
+  padding-top: 6em;
   margin-left: 30em;  
 }
 .p{
   margin-left: 60em;
 }
 .gps{
-  margin-top: -10em;
-  margin-left: 10em;
+  padding-top: 7em;
+  padding-bottom: 4em;
+  margin-top: -27em;
+  margin-left: 10em
+  
 }
