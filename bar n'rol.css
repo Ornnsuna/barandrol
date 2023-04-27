@@ -1,0 +1,610 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+      background-image: url("./img/papel-papiro-marron.jpg");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+  }
+  .log {
+    margin-top: -1em;
+    text-align: center;
+  }
+  
+  #botones {
+    text-align: center;
+  }
+  #hip {
+    margin-left: 10%;
+    
+  }
+
+  #sum2 {
+    display: none;
+  }
+  
+  body {
+    font-family: Helvetica;
+    margin: 0;
+  }
+
+  .logo{
+    width: 100%;
+    height:4em;
+
+  }
+  header {
+    overflow: hidden;
+    color: aqua;
+    background-color: rgba(0, 0, 0, 0.699);
+    height: fit-content;
+  }
+  
+  header  a {
+
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 1em;
+    border-radius: 4em;
+  }
+
+  header div summary {
+    position: absolute;
+    height: 1em;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 1em;
+    border-radius: 4em;
+    margin-left: 51%;
+
+  }
+
+  .navcategorias{
+    display: table-row;
+
+  }
+
+header div details a{
+  display: block;
+}
+
+  .iniciar {
+    margin-left: 38%;
+
+  }
+  
+  a:hover {
+    background-color: rgb(0, 0, 0)
+
+  }
+
+  summary:hover  {
+    background-color: rgb(0, 0, 0)
+
+  }
+
+  .navcategorias a {
+    display: block;
+    margin-top: 1.5em;
+    float: left;
+  
+  }
+
+  .navcategorias summary {
+    margin-top: 1.5em;
+    float: left;
+    display: table-column;
+  }
+
+  .logoprincipal {
+    margin-left: 35%;
+    margin-top: 0%;
+    width: 25%;
+    
+  }
+
+  .nosaltres {
+    text-align: center;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 2em;
+    margin-top: 5em;
+    margin-right: auto;
+    margin-left: auto;
+    text-decoration: none;
+    background-color: rgba(99, 57, 25, 0.587);
+    height: 5em;
+    width: 30%;
+  }
+
+  .alfred {
+
+    background-color: rgb(0, 255, 4);
+    padding-left: 7%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+  }
+  .qralf {
+    padding: 2%;
+    margin-left: -20.8%;
+    padding-top: 2%;
+
+  }
+  .imgalfred {
+    float: right;
+    margin-left: 3%;
+
+  }
+  .jordi {
+
+    background-color: rgb(90, 69, 7);
+    padding-left: 7%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 15%;
+  }
+
+  .qrjor {
+    padding: 2%;
+    margin-left: -20.8%;
+    padding-top: 2%;
+
+  }
+  .imgjordi {
+    float: right;
+    margin-left: 3%;
+
+  }
+
+
+  .iker {
+    background-color: rgb(0, 255, 170);
+    padding-left: 7%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+
+  .qrik {
+    padding: 2%;
+    margin-left: -20.8%;
+    padding-top: 2%;
+  }
+
+  .imgiker {
+    float: right;
+    margin-left: 3%;
+   
+  }
+
+  .oriol {
+    background-color: rgb(192, 59, 10);
+    padding-left: 6.3%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 15%;
+
+  }
+
+  .qror {
+    padding: 2%;
+    margin-left: -20.8%;
+    padding-top: 2%;
+  } 
+
+  .imgoriol {
+    float: right;
+    margin-left: 3%;
+   
+  }
+  .dostontos {
+    margin-top: 4%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+  }
+
+  .io {
+    margin-top: 4%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .quefem {
+    padding-top: 5em;
+    text-align: center;
+  }
+  .bar {
+    text-align: center;
+  }
+  .tal {
+    text-align: center;
+  }
+  .pero {
+    text-align: center;
+  }
+  .imglogonaranja {
+    margin-left: 35%;
+  }
+
+
+
+  .obj {
+    text-align: center;
+    margin-right: 25%;
+    margin-top: 5%;
+    
+  }
+  .ide {
+    text-align: center;
+    margin-left: 25%;
+    margin-top: -1.5%;
+  }
+  .val {
+    padding-bottom: 20em;
+    text-align: center;
+    margin-top: 10%;
+  }
+  .res {
+    padding-left: 12%;
+    padding-top: 1%;
+    margin-top: 6%;
+    margin-right: 3%;
+    margin-left: 23%;
+    margin-bottom: 7em;
+    text-decoration: none;
+    background-color: orange;
+    height: 25em;
+    width: 10%;
+  }
+  .restex {
+    margin-left: -95%;    
+  }
+  .imgres {
+    margin-left: -110%;
+  }
+  .tau {
+    padding-left: 12%;
+    padding-top: 1%;
+    margin-top: -32.7em;
+    margin-right: 3%;
+    margin-left: 56%;
+    margin-bottom: 5em;
+    text-decoration: none;
+    background-color: black;
+    height: 25em;
+    width: 10%;
+  }
+  .rec {
+    color: ivory;
+    margin-left: -90%; 
+
+  }
+  .imgrec {
+    margin-left: -110%;
+    margin-top: 30%;
+  }
+  .in {
+    margin-left: 25%;
+    padding-bottom: 3%;
+  }
+  .nombre {
+    margin-left: 25%;
+    margin-top: 15em;
+    padding-top: 20%;
+  }
+.apellido {
+  position: absolute;
+  margin-left: 25%;
+  margin-top: 2%;
+  /* padding-top: 20%; */
+}
+.asd {
+  margin-top: 14em;
+  padding-bottom: 0%;
+
+}
+.a {
+  position: absolute;
+  margin-left: 25%;
+  margin-top: 5%;
+}
+.imglogneg {
+  margin-left: 30%;
+  margin-top: -19%;
+}
+.imglognegreg {
+  margin-left: 35%;
+  margin-top: -19%;
+}
+.resus {
+  margin-left: 20%;
+  margin-top: 3%;
+
+
+}
+.resem {
+  margin-left: 20%;
+
+}
+.dat {
+    margin-left: 20%;
+
+}
+.reg {
+    margin-left: 27%;
+    margin-top: 0%;
+
+}
+.cont {
+    margin-top: -11%;
+
+}
+.conta{
+  color: rgb(29, 247, 181);
+
+  padding-top: 6em;
+  margin-left: 30em;  
+}
+.p{
+  color: white;
+  margin-left: 60em;
+}
+.gps{
+  padding-top: 7em;
+  padding-bottom: 6em;
+  margin-top: -27em;
+  padding-left: 10em;
+  
+}
+.cont {
+  background-color: black;
+  color: black;
+}
+
+#h1pr {
+  text-align: center;
+  margin-top: 1em;
+  padding-bottom: 1em;
+}
+
+#ulpr {
+  text-align: center;
+  padding: 1%;
+}
+
+#ulpr li{
+  text-align: center;
+  padding: 1%;
+}
+
+.contenedor {
+  display: none;
+}
+
+
+@media only screen and (max-width: 920px) {
+
+  *{
+    padding: 0px;
+    margin: 0px;
+  }
+
+  header{
+    background-color: rgba(0, 0, 0, 0.699);
+    overflow: hidden;
+    height: fit-content;
+    padding-bottom: 0%;
+  }
+
+  .contenedor{
+    display: block; 
+    cursor: pointer;
+    
+
+  }
+
+  .menu-bars {
+    color: white;
+    left: 7%; 
+    top: 1em;
+    position: relative;
+  }
+
+ 
+    
+  header div.navcategorias {
+    display: none;
+    position: fixed;
+    width: 30%;
+
+
+  }
+
+ header div a{
+   
+    display: block;
+    text-decoration: none;
+    width: 80%;
+    margin-left: 42%;
+
+  }
+
+
+  .log  {
+    margin-top: 4%;
+    width: 110%;
+    margin-left: -5%;
+    margin-right: 30%;
+    
+  }
+
+  .nosaltres{
+    background-color: rgba(100, 73, 52, 0.587);
+    width: 70%;
+    padding-top: 1em;
+    padding-bottom: 7em;
+   
+  }
+
+  .nosaltres h1 {
+    text-align: center;
+
+  }
+
+  .dostontos {
+    margin-top: 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+  }
+
+    .io {
+    margin-top: 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .alfred{
+    background-color: rgb(0, 255, 4);
+    margin-top: 5%;
+    padding-top: 1%;
+    padding-bottom: 10%;
+    margin-left: 17%;
+    margin-right: 15%;
+
+  }    
+
+  .qralf {
+    margin-left: 1%;
+    padding: 2%;
+    padding-top: 2%;
+
+  }
+
+  .alfred h2{
+    text-align: center;
+  }
+
+  .imgalfred {
+    float: right;
+    margin-right: 15%;
+
+  }
+
+  .jordi{
+    background-color: rgb(228, 232, 26);
+    margin-top: 5%;
+    padding-top: 1%;
+    padding-bottom: 10%;
+    margin-left: 17%;
+    margin-right: 15%;
+
+  }    
+
+  .qrjor {
+    margin-left: 1%;
+    padding: 2%;
+    padding-top: 2%;
+
+  }
+
+  .jordi h2{
+    text-align: center;
+  }
+
+  .imgjordi {
+    float: right;
+    margin-right: 15%;
+
+  }
+
+  .iker{
+    background-color: rgb(17, 233, 132);
+    margin-top: 5%;
+    padding-top: 1%;
+    padding-bottom: 10%;
+    margin-left: 17%;
+    margin-right: 15%;
+
+  }    
+
+  .qrik {
+    margin-left: 1%;
+    padding: 2%;
+    padding-top: 2%;
+
+  }
+
+  .iker h2{
+    text-align: center;
+  }
+
+  .imgiker {
+    float: right;
+    margin-right: 15%;
+
+  }
+
+  .oriol{
+    background-color: rgb(233, 49, 17);
+    margin-top: 5%;
+    padding-top: 1%;
+    padding-bottom: 10%;
+    margin-left: 17%;
+    margin-right: 15%;
+
+  }    
+
+  .qror {
+    margin-left: 1%;
+    padding: 2%;
+    padding-top: 2%;
+
+  }
+
+  .oriol h2{
+    text-align: center;
+  }
+
+  .imgoriol {
+    float: right;
+    margin-right: 15%;
+
+  }
+
+  .imglogonaranja {
+    width: 80%;
+    margin-left: 7%;
+  }
+
+  .quefemd{
+
+  }
+
+  .quefemd h2{
+
+    
+  }
+
+
+
+}
