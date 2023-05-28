@@ -665,7 +665,7 @@
       
     }
     #pien a{
-      margin-left: 15%;
+      margin-left: 12%;
       margin-top: 8%;
       display: flex;
       width: 100%;     
@@ -679,7 +679,7 @@
     }
     
     #papo a{
-      margin-left: 15%;
+      margin-left: 22%;
       margin-top: 8%;
       display: flex;
       width: 100%;     
@@ -691,6 +691,24 @@
     }
     #papo a:hover {
     background-color: transparent;
+    }
+
+    #pien{
+      width: 80%;
+    }
+
+    #papo{
+      width: 40%;
+    }
+
+    #impi{
+      width: 50%;
+    }
+    
+    #imgpo{
+      position: relative ;
+      text-align: center;
+      right: 55%;      
     }
   }
   
@@ -1026,6 +1044,13 @@
     #papo a:hover {
     background-color: transparent;
     }
+
+    
+    #imgpo{
+      position: relative ;
+      text-align: center;
+      right: 55%;      
+    }
   
   }
   
@@ -1321,6 +1346,20 @@
       width: 100%;     
     }
   
+    #pien {
+      margin-top: 4%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      
+    }
+    #pien a{
+      margin-left: 12%;
+      margin-top: 8%;
+      display: flex;
+      width: 100%;     
+    }
+  
     #papo {
       margin-top: 4%;
       display: flex;
@@ -1329,19 +1368,36 @@
     }
     
     #papo a{
-      margin-left: 15%;
+      margin-left: 22%;
       margin-top: 8%;
       display: flex;
       width: 100%;     
 
     }
-
+    
     #pien a:hover {
       background-color: transparent;
     }
-  
     #papo a:hover {
     background-color: transparent;
+    }
+
+    #pien{
+      width: 90%;
+    }
+
+    #papo{
+      width: 40%;
+    }
+
+    #impi{
+      width: 50%;
+    }
+
+    #imgpo{
+      position: relative ;
+      text-align: center;
+      right: 55%;      
     }
   
   }
