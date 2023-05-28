@@ -344,6 +344,7 @@
   text-decoration: none;
 }
 #papo {
+  
   margin-top: 5%;
   display: flex;
   flex-direction: row;
@@ -355,7 +356,12 @@
 }
 
 #imgpo{
-  margin-left: 50%;
+  margin-left: 70%;
+}
+
+#imgpa{
+  position: relative;
+  right: 60%;
 }
 
 #pien a:hover {
@@ -708,7 +714,11 @@
     #imgpo{
       position: relative ;
       text-align: center;
-      right: 55%;      
+      right: 65%;      
+    }
+
+    #imgpa{
+      left: 5%;
     }
   }
   
